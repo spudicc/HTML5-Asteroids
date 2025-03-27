@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HTML5-Asteroids/v17/DocumentLayout.json
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/HTML5-Asteroids/FileContentIndex/271676bd-665e-4055-b862-82e691dde067.vsidx
+/.vs/HTML5-Asteroids/FileContentIndex/f3fb6b9a-42fe-4885-a25b-d04dd3d401f9.vsidx
+/.vs/HTML5-Asteroids/FileContentIndex/c47dcacf-38e5-4717-bd24-d55594e761b1.vsidx
+/.vs/HTML5-Asteroids/FileContentIndex/02aabf82-c6e0-4e41-884f-66b23d0ad4fd.vsidx
+/.vs/HTML5-Asteroids/FileContentIndex
+/.vs/HTML5-Asteroids/v17/TestStore/0
+/.vs/HTML5-Asteroids/v17
+/.vs
